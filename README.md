@@ -79,7 +79,7 @@ The application analyzes the following wine properties:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/wine-predictions.git
+git clone https://github.com/luuisotorres/wine-quality-prediction.git
 cd wine-predictions
 
 # Create a virtual environment
