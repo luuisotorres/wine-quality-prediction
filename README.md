@@ -134,7 +134,7 @@ Where:
 - $E_{ij}$ = expected confusion matrix under randomness
 - $w_{ij}$ = weighted matrix, calculated as $(i - j)^2$
 
-For detailed model development and analysis, check out the [Kaggle notebook](https://www.kaggle.com/code/lusfernandotorres/wine-quality-eda-prediction-and-deploy/notebook).
+For detailed model development, analysis, and interactive plots, check out the [Kaggle notebook](https://www.kaggle.com/code/lusfernandotorres/wine-quality-eda-prediction-and-deploy/notebook).
 
 ## Contact
 
