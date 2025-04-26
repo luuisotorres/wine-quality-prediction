@@ -1,6 +1,7 @@
 # 🍷 Wine Quality Prediction App
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://huggingface.co/spaces/luisotorres/wine-quality-predictions)
+[![EDA on Kaggle Notebook](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/code/lusfernandotorres/wine-quality-eda-prediction-and-deploy/notebook)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -122,7 +123,7 @@ The prediction model uses a sophisticated pipeline that includes:
 
 ### Model Performance
 
-The model achieved a Quadratic Weighted Kappa (QWK) score of 0.53011 in the competition. The QWK score is calculated as:
+The model achieved a Quadratic Weighted Kappa (QWK) score of 0.53011 in the [Playground Series - Season 3, Episode 5: Ordinal Regression with a Tabular Wine Quality Dataset competition](https://www.kaggle.com/competitions/playground-series-s3e5). The QWK score is calculated as:
 
 $$
 \kappa = 1 - \frac{\sum_{i,j} w_{ij} O_{ij}}{\sum_{i,j} w_{ij} E_{ij}}
