@@ -80,7 +80,7 @@ The application analyzes the following wine properties:
 ```bash
 # Clone the repository
 git clone https://github.com/luuisotorres/wine-quality-prediction.git
-cd wine-predictions
+cd wine-quality-prediction
 
 # Create a virtual environment
 python -m venv venv
@@ -103,11 +103,11 @@ Visit `http://localhost:8501` in your browser to use the application.
 
 ```
 wine-predictions/
-├── app.py              # Main Streamlit application
-├── requirements.txt    # Project dependencies
-├── models/            # Trained model files
-├── src/              # Source code
-└── README.md         # Project documentation
+├── app.py                                          # Main Streamlit application
+├── requirements.txt                                # Project dependencies
+├── wine-quality-eda-prediction-and-deploy.ipynb    # Notebook with EDA and model development
+├── wine_quality_prediction.pkl                     # PKL model
+└── README.md                                       # Project documentation
 ```
 
 ## 🤖 Model Details
@@ -137,7 +137,7 @@ For detailed model development and analysis, check out the [Kaggle notebook](htt
 
 ## 📫 Contact
 
-🧑🏻‍💻 **Luis Fernando Torres**
+👨🏻‍💻 **Luis Fernando Torres**
 
 Let's connect! 🔗
 
