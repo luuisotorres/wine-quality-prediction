@@ -1,14 +1,3 @@
----
-title: Wine Quality Prediction
-emoji: 🍷
-colorFrom: pink
-colorTo: gray
-sdk: streamlit
-sdk_version: 1.42.0
-app_file: app.py
-pinned: false
----
-
 # 🍷 Wine Quality Prediction App
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://huggingface.co/spaces/luuisotorres/wine-predictions)
